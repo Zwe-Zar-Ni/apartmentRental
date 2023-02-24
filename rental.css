@@ -4,13 +4,14 @@
      padding: 0;
 }
 .sidebar{
+     color: #303030;
      left: 43px;
      position: fixed;
      background-color: #F1F1F1;
 }
 .rental{
      font-size: 2.1rem;
-     margin-top: 20px;
+     margin-top: 15px;
      margin-left: 15px;
 }
 .from99 , .pernight{
@@ -63,7 +64,7 @@
      top: 450px;
      width: 120px;
      height: 40px;
-     background-color: #303030;
+     background-color: #4f4e4e;
      color: white;
      text-align: center;
      padding-top: 8px;
@@ -71,6 +72,7 @@
 .spaces{
      margin-top: 25px;
      margin-left: 28px;
+     color: #4f4e4e;
 }
 .minispaces{
      margin-left: 10px;
@@ -96,7 +98,9 @@
      font-weight: lighter;
      margin-bottom: 5px;
 }
-
+.sendMessage{
+     margin-bottom: 10px;
+}
 .subscribeBox{
      display: none;
      background-color: rgb(226, 219, 219);
